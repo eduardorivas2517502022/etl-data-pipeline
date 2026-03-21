@@ -1,0 +1,23 @@
+id_corredor,nombre,zona,nivel,anios_experiencia,motivo_rechazo
+4,Fernanda Rojas Cruz,,Senior,8,Zona_nula
+5,Ana Gómez Rojas,,Senior,4,Zona_nula
+11,José Morales Flores,,Junior,,"Zona_nula,anios_experiencia_nulo"
+12,Pedro Gómez Vásquez,,Mid,21,Zona_nula
+15,Fernanda Cruz Reyes,Centro,Mid,,anios_experiencia_nulo
+17,Jorge Reyes Ramírez,,Elite,20,Zona_nula
+20,Pedro Cruz Pérez,,Junior,24,Zona_nula
+24,José Ortiz Flores,,Junior,9,Zona_nula
+29,Ricardo López Hernández,,nan,25,Zona_nula
+32,Ricardo Ortiz Gómez,Costa,Senior,99,Experiencia_fuera_de_rango
+34,Lucía Vásquez Chávez,,Junior,7,Zona_nula
+39,Sofía Ortiz Pérez,,Mid,25,Zona_nula
+41,Andrés Vásquez Rojas,  Centro  ,Elite,99,Experiencia_fuera_de_rango
+49,Paula Castillo Rojas,,Mid,6,Zona_nula
+51,Juan Martínez Santos,,Senior,99,"Zona_nula,Experiencia_fuera_de_rango"
+55,Andrés Santos Santos,,Senior,6,Zona_nula
+59,Daniela Flores Pérez,,Junior,7,Zona_nula
+60,Pedro Castillo Gómez,,nan,17,Zona_nula
+61,Carlos Torres Mendoza,Centro,Junior,,anios_experiencia_nulo
+70,Carlos Vásquez Martínez,,Mid,21,Zona_nula
+74,José Morales Martínez,,Mid,6,Zona_nula
+77,Valeria Vásquez Mendoza,  Centro  ,Junior,,anios_experiencia_nulo
