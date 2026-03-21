@@ -3,3 +3,6 @@ import numpy as np
 import re
 !pip install sqlalchemy psycopg2-binary
 from sqlalchemy import create_engine
+
+SQL conection
+postgresql://etl_seguros_00iw_user:FZBRc2UIzW86Fj6UIVV9CV4CdJKc8hIi@dpg-d6qu533uibrs739hde4g-a.oregon-postgres.render.com/etl_seguros_00iw
