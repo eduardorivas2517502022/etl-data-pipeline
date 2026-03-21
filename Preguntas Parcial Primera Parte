@@ -1,0 +1,19 @@
+1. ¿Qué significa ETL?
+ETL significa Extract, Transform, Load (Extraer, Transformar y Cargar).
+Es un proceso para mover datos de un lugar a otro.
+
+2. ¿Qué hace la fase Transform?
+La fase Transform limpia y modifica los datos.
+Quitar errores
+Cambiar formatos
+Filtrar información
+
+3. ¿Para qué sirve GitHub?
+Sirve para guardar y compartir código y También permite trabajar en equipo y llevar control de cambios.
+
+4. ¿Qué es PostgreSQL?
+Es una base de datos donde se guarda información organizada en tablas.
+
+5. ¿Qué librería se usa en ETL con Python?
+La más usada es pandas.
+Sirve para leer, limpiar y transformar datos fácilmente.
